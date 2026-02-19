@@ -1,5 +1,7 @@
 Arduino Code
+
 // Motor pins
+
 const int pwmPin = 5;  // PWM output (hardware PWM)
 const int dir1   = 4;
 const int dir2   = 7;
